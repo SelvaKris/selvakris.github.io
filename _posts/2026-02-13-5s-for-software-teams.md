@@ -9,10 +9,12 @@ comments: true
 excerpt: "Apply the Toyota 5S methodology to engineering repositories and JIRA boards for sustainable velocity and team clarity."
 ---
 
-*A Practical Implementation Playbook for Engineering Repositories and JIRA*
+*Random thought about how does one goes about implementing 5S metthodology in Softwware Developement EnvironmentA*
 
-Inspired by the 5S methodology from the Toyota Production System.
+In my early days of my career, I had an oppotunity to intern at a Japanese factory, where I first hand saw various lean methodlogies and techniques applied, and one of the things that inspired me was 5S Inspired by the 5S methodology from the Toyota Production System.
 
+What is 5S ?
+5S is a lean manufacturing methodology for organizing, cleaning, and maintaining a productive, safe work environment. It uses five Japanese pillars: Seiri (Sort), Seiton (Set in Order), Seiso (Shine), Seiketsu (Standardize), and Shitsuke (Sustain). By creating a "place for everything," it reduces waste, improves efficiency, and boosts morale.
 ---
 
 ## Why 5S for Software?
@@ -48,18 +50,18 @@ The goal is **flow, clarity, and sustainability**.
 ## 1️⃣ Seiri — SORT
 
 ### Objective
-Remove waste from both engineering artifacts and workflow systems.
+Remove waste from both engineering artifacts and workflow systems, below is a sample list of areas, and actions, teams have to decide the cadence and ownership based on their code churn
 
-| Area | Actions | Cadence | Owner |
-|------|----------|----------|--------|
-| **Code Repository** | Remove dead code | Quarterly | Tech Lead |
-| | Delete stale branches (>30 days inactive) | Monthly | Repo Admin |
-| | Archive deprecated modules | Quarterly | Architect |
-| | Remove unused dependencies | Quarterly | DevOps |
-| **JIRA** | Close stale tickets (>90 days no update) | Monthly | Scrum Master |
-| | Merge duplicate stories | Ongoing | Product Owner |
-| | Move unclear ideas to Parking Lot | Weekly refinement | Product Owner |
-| | Remove "Zombie Epics" | Quarterly | Leadership |
+| Area | Actions | 
+|------|----------|
+| **Code Repository** | Remove dead code |
+| | Delete stale branches (>30 days inactive) | 
+| | Archive deprecated modules | 
+| | Remove unused dependencies | 
+| **JIRA** | Close stale tickets (>90 days no update) | 
+| | Merge duplicate stories |
+| | Move unclear ideas to Parking Lot | 
+| | Remove "Zombie Epics" | Quarterly | 
 
 ---
 
