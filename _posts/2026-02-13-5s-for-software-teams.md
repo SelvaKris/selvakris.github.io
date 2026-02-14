@@ -133,27 +133,6 @@ Build discipline into team culture.
 
 ---
 
-## Governance Model
-
-### Weekly
-- Backlog refinement
-- Branch cleanup
-- Review blocked items
-- Review CI health
-
-### Monthly
-- Technical debt review
-- Workflow health audit
-- Metrics review (Cycle Time, Lead Time)
-
-### Quarterly
-- Repo structural audit
-- Dependency review
-- Backlog pruning session
-- Retrospective focused on systemic waste
-
----
-
 ## Metrics to Track
 
 | Metric | Healthy Signal | Warning Sign |
@@ -163,28 +142,6 @@ Build discipline into team culture.
 | PR Size | Small and reviewable | Massive change sets |
 | Open Tickets | Controlled backlog | 500+ aging items |
 | Test Stability | <2% flaky | Frequent reruns |
-
----
-
-## Implementation Roadmap (90 Days)
-
-### Phase 1 (Weeks 1–3)
-- Clean stale JIRA tickets
-- Delete unused branches
-- Enforce PR template
-- Define Definition of Done
-
-### Phase 2 (Weeks 4–8)
-- Standardize workflows
-- Introduce WIP limits
-- Automate lint/test checks
-- Create technical debt register
-
-### Phase 3 (Weeks 9–12)
-- Conduct full repo audit
-- Reduce backlog by 30%
-- Implement metrics dashboard
-- Leadership alignment session
 
 ---
 
@@ -214,9 +171,7 @@ Build discipline into team culture.
 > A messy system produces messy outcomes.  
 > A disciplined system produces sustainable velocity.
 
-5S is not about perfection.  
+5S is not about perfection. It embodies a continuous improvement principle
 It is about reducing waste so teams can focus on delivering value.
 
 ---
-
-*End of Playbook*
