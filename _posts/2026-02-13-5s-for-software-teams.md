@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5S for Software Teams"
-subtitle: "Random thought about how does one goes about implementing 5S metthodology in Softwware Developement Environment"
+subtitle: "Random thought about how does one goes about implementing 5S metthodology in Software Developement Environment"
 date: 2026-02-13 12:00:00 -0500
 tags: [5S, agile, engineering, lean, jira, repository-management]
 categories: [engineering, process]
