@@ -21,9 +21,6 @@ author: Selva Kris
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://selvakris.github.io"
 
 ################
