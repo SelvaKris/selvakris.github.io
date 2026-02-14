@@ -8,7 +8,7 @@ categories: [engineering, process]
 comments: true
 excerpt: "Apply the Toyota 5S methodology to engineering repositories and JIRA boards for sustainable velocity and team clarity."
 ---
-
+> ### Still polishing this a bit, except some more minor changes 
 *In my early days of my career, I had an oppotunity to intern at a Japanese factory, where I first hand saw various lean methodlogies and techniques applied, and one of the things that inspired me was 5S Inspired by the 5S methodology from the Toyota Production System.*
 
 What is 5S ?
@@ -49,17 +49,16 @@ The goal is **flow, clarity, and sustainability**.
 
 ### Objective
 Remove waste from both engineering artifacts and workflow systems, below is a sample list of areas, and actions, teams have to decide the cadence and ownership based on their code churn
-
+| Seiri means SORT | Goal :  | 
 | Area | Actions | 
 |------|----------|
 | **Code Repository** | Remove dead code |
 | | Delete stale branches (>30 days inactive) | 
 | | Archive deprecated modules | 
 | | Remove unused dependencies | 
-| **JIRA** | Close stale tickets (>90 days no update) | 
-| | Merge duplicate stories |
-| | Move unclear ideas to Parking Lot | 
-| | Remove "Zombie Epics" | Quarterly | 
+| **JIRA** | Close stale tickets (>x days(team to decide) no update) | 
+| | Merge/Invalidate duplicate stories |
+| | Remove "Zombie Features & Epics" | 
 
 ---
 
