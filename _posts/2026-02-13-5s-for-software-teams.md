@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5S for Software Teams"
-subtitle: "A Practical Implementation Playbook for Engineering Repositories and JIRA"
+subtitle: "Random thought about how does one goes about implementing 5S metthodology in Softwware Developement Environment"
 date: 2026-02-13 12:00:00 -0500
 tags: [5S, agile, engineering, lean, jira, repository-management]
 categories: [engineering, process]
@@ -9,9 +9,7 @@ comments: true
 excerpt: "Apply the Toyota 5S methodology to engineering repositories and JIRA boards for sustainable velocity and team clarity."
 ---
 
-*Random thought about how does one goes about implementing 5S metthodology in Softwware Developement EnvironmentA*
-
-In my early days of my career, I had an oppotunity to intern at a Japanese factory, where I first hand saw various lean methodlogies and techniques applied, and one of the things that inspired me was 5S Inspired by the 5S methodology from the Toyota Production System.
+*In my early days of my career, I had an oppotunity to intern at a Japanese factory, where I first hand saw various lean methodlogies and techniques applied, and one of the things that inspired me was 5S Inspired by the 5S methodology from the Toyota Production System.*
 
 What is 5S ?
 5S is a lean manufacturing methodology for organizing, cleaning, and maintaining a productive, safe work environment. It uses five Japanese pillars: Seiri (Sort), Seiton (Set in Order), Seiso (Shine), Seiketsu (Standardize), and Shitsuke (Sustain). By creating a "place for everything," it reduces waste, improves efficiency, and boosts morale.
