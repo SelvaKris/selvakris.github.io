@@ -23,19 +23,3 @@ My leadership philosophy is pragmatic and people‑centered. I believe progress 
 This blog exists as a place to reflect and share. It’s where I document lessons learned from delivery, leadership, career transitions, and personal growth—especially the parts that aren’t always discussed openly. If you’re navigating complexity, change, or reinvention in your own career, you’ll likely find familiar themes here.
 
 I’m still learning, still refining my thinking, and still curious about how better systems—and better leaders—are built over time.
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
